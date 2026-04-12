@@ -25,7 +25,7 @@
 const john = {
     location: "Accra, Ghana 🇬🇭",
     education: "B.A. Computer Science",
-    current_role: "Backend Develope",
+    current_role: "Backend Developer",
     experience: "4+ years building scalable systems",
     passion: ["Cloud Architecture", "Distributed Systems", "Open Source"],
     currently_learning: ["System Design & Architecture"],
